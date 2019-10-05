@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-imgsplash/static/css/main.4a4c67ea.chunk.css",
+    "main.js": "/react-imgsplash/static/js/main.0bf974ff.chunk.js",
+    "main.js.map": "/react-imgsplash/static/js/main.0bf974ff.chunk.js.map",
+    "runtime-main.js": "/react-imgsplash/static/js/runtime-main.cdf7b5ae.js",
+    "runtime-main.js.map": "/react-imgsplash/static/js/runtime-main.cdf7b5ae.js.map",
+    "static/js/2.1507ec7a.chunk.js": "/react-imgsplash/static/js/2.1507ec7a.chunk.js",
+    "static/js/2.1507ec7a.chunk.js.map": "/react-imgsplash/static/js/2.1507ec7a.chunk.js.map",
+    "index.html": "/react-imgsplash/index.html",
+    "precache-manifest.3489823b07fd4b31474b77e9ff5f3f64.js": "/react-imgsplash/precache-manifest.3489823b07fd4b31474b77e9ff5f3f64.js",
+    "service-worker.js": "/react-imgsplash/service-worker.js",
+    "static/css/main.4a4c67ea.chunk.css.map": "/react-imgsplash/static/css/main.4a4c67ea.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdf7b5ae.js",
+    "static/js/2.1507ec7a.chunk.js",
+    "static/css/main.4a4c67ea.chunk.css",
+    "static/js/main.0bf974ff.chunk.js"
+  ]
+}
